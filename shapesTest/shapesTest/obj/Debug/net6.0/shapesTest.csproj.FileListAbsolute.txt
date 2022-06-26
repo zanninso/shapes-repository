@@ -1,0 +1,15 @@
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/shapesTest.csproj.AssemblyReference.cache
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/shapesTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/shapesTest.AssemblyInfoInputs.cache
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/shapesTest.AssemblyInfo.cs
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/shapesTest.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/bin/Debug/net6.0/shapesTest
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/bin/Debug/net6.0/shapesTest.deps.json
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/bin/Debug/net6.0/shapesTest.runtimeconfig.json
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/bin/Debug/net6.0/shapesTest.dll
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/bin/Debug/net6.0/shapesTest.pdb
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/shapesTest.dll
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/refint/shapesTest.dll
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/shapesTest.pdb
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/shapesTest.genruntimeconfig.cache
+/Users/user/Desktop/preInterviewDamri/shapesTest/shapesTest/obj/Debug/net6.0/ref/shapesTest.dll

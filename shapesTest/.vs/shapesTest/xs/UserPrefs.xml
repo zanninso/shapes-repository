@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F8208B82-A1CF-4F94-A6CD-ADE45B3EF2B9}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="shapesTest/Program.cs">
+    <Files>
+      <File FileName="shapesTest/Program.cs" Line="7" Column="41" />
+      <File FileName="shapesTest/ShapesManager.cs" Line="98" Column="33" />
+      <File FileName="shapesTest/Shape.cs" Line="57" Column="76" />
+      <File FileName=".editorconfig" Line="1" Column="1" />
+      <File FileName="shapesTest/Menu.cs" Line="36" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shapesTest" expanded="True">
+            <Node name="shapesTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.shapesTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
